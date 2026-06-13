@@ -1,55 +1,61 @@
-# Javen · 雪里寻花
+# Jarven · 雪里寻花
 
-I work on power-market trading, investment research, and AI-assisted knowledge systems.
+I am Jarven, writing in Chinese as **雪里寻花**.
 
-我关注电力交易、投资研究和 AI 辅助知识系统。更具体地说，我经常做的一件事是：把混乱的领域信息，整理成可复用的工具、结构化笔记和决策流程。
+我用 **雪里寻花** 这个名字写中文长文，也在 GitHub 上沉淀一些公开工具、知识库和 AI 协作流程。
 
-> GitHub: `xuelixunhua`  
-> English name: Javen  
-> Chinese writing: 雪里寻花  
-> Personal note-taking spirit: food_for_thought
+My work sits at the intersection of power markets, investment research, structured knowledge, and AI-enabled workflows. The common thread is not simply coding, but making complex systems more legible, operable, and reusable.
 
-## What I Do / 我在做什么
+我长期关注的问题不是“写一段代码”本身，而是：如何把复杂系统里的信息不对称、决策压力和经验碎片，转化为可以复盘、可以验证、可以复用的认知框架与工具系统。
 
-- Power-market trading, settlement analysis, and market-rule research  
-  电力市场交易、结算分析和市场规则研究
-- AI-assisted research workflows and personal Codex skills  
-  AI 辅助研究工作流与个人 Codex skills
-- Creator/video-to-knowledge-base pipelines  
-  从视频、播客、课程到结构化知识库的整理流程
-- Investment, valuation, and data-analysis notebooks  
-  投资、估值和数据分析笔记
-- Markdown publishing workflows for Chinese long-form writing  
-  面向中文长文写作的 Markdown 排版与发布流程
+## Throughline / 主线
 
-## Selected Projects / 项目切片
+**From disorder to structure, from structure to tools, from tools to better decisions.**
 
-| Project | What it shows / 展示什么 |
+**从混沌到结构，从结构到工具，从工具到更好的决策。**
+
+- Decode complex systems: power markets, commodities, equities, job markets, and knowledge domains  
+  理解复杂系统：电力市场、商品期货、股票估值、职业市场与知识体系
+- Build analytical frameworks that can survive real-world decisions  
+  把分析框架做成能经受真实决策检验的东西
+- Turn research into dashboards, scripts, datasets, notes, and agent skills  
+  把研究沉淀成看板、脚本、数据集、笔记和 AI agent skills
+- Use AI as a leverage layer for thinking, synthesis, and workflow automation  
+  把 AI 当作思考、综合与流程自动化的杠杆，而不是简单的问答工具
+
+## Public Work / 公开项目
+
+| Project | What it represents / 它代表什么 |
 | --- | --- |
-| [xuelixunhua-s-skills](https://github.com/xuelixunhua/xuelixunhua-s-skills) | Personal Codex skills for thinking, research synthesis, web access, and knowledge workflows. / 个人 AI 工具箱，把思考、研究、写作和网页访问流程沉淀成可复用 skill。 |
-| [career-intelligence-copilot](https://github.com/xuelixunhua/career-intelligence-copilot) | Job-market intelligence workflow built around real postings, datasets, and decision boards. / 基于真实岗位的求职情报、数据合并、简历反推和公司筛选流程。 |
-| [huya-youth-plus-travel-notes](https://github.com/xuelixunhua/huya-youth-plus-travel-notes) | Video-to-knowledge-base project for travel, geography, history, and route notes. / 把旅行、地理、历史类视频整理成路线知识库。 |
-| [clothing-brand-research-notes](https://github.com/xuelixunhua/clothing-brand-research-notes) | Consumer decision research turned into buying frameworks and structured notes. / 把服装品牌和购买建议整理成可复用的消费决策框架。 |
-| [stock_DCF](https://github.com/xuelixunhua/stock_DCF) | A legacy but useful DCF valuation notebook project. / 早期股票估值学习项目，用 Notebook 实现 DCF 估值思路。 |
-| [markdown-css-lab](https://github.com/xuelixunhua/markdown-css-lab) | Local Markdown/CSS publishing experiments for WeChat articles, PDFs, and research notes. / 面向公众号、PDF 和研究笔记的 Markdown/CSS 排版实验。 |
+| [xuelixunhua-s-skills](https://github.com/xuelixunhua/xuelixunhua-s-skills) | A personal AI capability layer: Codex skills for thinking, research synthesis, web access, writing, and knowledge workflows. / 个人 AI 能力层，把思考、研究、网页访问、写作和知识管理沉淀成可复用 skill。 |
+| [career-intelligence-copilot](https://github.com/xuelixunhua/career-intelligence-copilot) | A job-market intelligence workflow: real postings, normalized datasets, company screening, and resume reverse-engineering. / 求职情报系统：从真实岗位到数据集、公司筛选和简历反推。 |
+| [huya-youth-plus-travel-notes](https://github.com/xuelixunhua/huya-youth-plus-travel-notes) | A creator-content knowledge base for travel, geography, history, routes, and regional understanding. / 从旅行视频中整理路线、地理、历史和区域理解的知识库。 |
+| [clothing-brand-research-notes](https://github.com/xuelixunhua/clothing-brand-research-notes) | Consumer research as a decision framework: brands, categories, materials, use cases, and buying logic. / 把服装品牌研究整理成品类、面料、场景和购买逻辑。 |
+| [stock_DCF](https://github.com/xuelixunhua/stock_DCF) | A legacy valuation notebook project with DCF models and financial-statement analysis notes. / 早期股票估值项目，用 Notebook 实现 DCF 与财务报表分析思路。 |
+| [markdown-css-lab](https://github.com/xuelixunhua/markdown-css-lab) | A publishing lab for moving Markdown into WeChat articles, PDFs, and research documents. / Markdown 排版与发布实验，用于公众号、PDF 和研究笔记。 |
 
-## Public Writing / 中文写作
+## Domains / 关注领域
 
-I write Chinese long-form notes and essays under the name **雪里寻花**.
+- **Power markets / 电力市场**: trading strategy, settlement review, market rules, policy interpretation, and decision support systems
+- **Investment research / 投资研究**: valuation, factor research, commodity fundamentals, and market-cycle thinking
+- **Knowledge systems / 知识系统**: long-lived notes, research frameworks, video-to-knowledge pipelines, and personal archives
+- **AI workflows / AI 工作流**: Codex skills, browser automation, data cleaning, report generation, and agent-assisted research
+- **Chinese writing / 中文写作**: long-form essays under **雪里寻花**, connecting research, work, life, and systems thinking
 
-我会用 **雪里寻花** 这个名字写中文长文。GitHub 这边更偏工具、流程和公开项目；公众号和长文写作更适合承载研究、工作观察、生活经验和一些尚未产品化的想法。
+## Principles / 方法原则
 
-## Working Style / 工作方式
+- **Structure before expression**: a good output begins with a stable internal framework.  
+  先有结构，再有表达。好的输出来自稳定的内部框架。
+- **Decision over decoration**: tools should help people see, compare, decide, and review.  
+  工具不是装饰品，它应该帮助人看清楚、比得动、做得出、复得了盘。
+- **Domain judgment first, code as leverage**: code is most valuable when it carries real domain understanding.  
+  领域判断在前，代码是杠杆。没有领域理解的自动化，只是更快地制造噪音。
+- **From one-off work to reusable systems**: every repeated task is a candidate for a workflow, script, or skill.  
+  从一次性劳动走向可复用系统。凡是反复出现的问题，都值得沉淀成流程、脚本或 skill。
 
-- Structured research notes over scattered summaries  
-  更喜欢结构化研究笔记，而不是零散摘抄
-- Small scripts and workflows over one-off manual work  
-  更喜欢把重复动作做成脚本和流程，而不是每次手工处理
-- Domain knowledge first, code as the leverage layer  
-  领域理解优先，代码是放大器
-- Public examples where possible, private boundaries where necessary  
-  能公开的尽量公开，涉及业务和隐私的内容保持边界
+## Writing / 中文长文
 
-Some of my private work involves power-market PDF extraction, settlement review, and trading-analysis workflows. I keep sensitive business data private, but try to publish reusable patterns and sanitized examples when they can help others.
+**雪里寻花** is where I write in Chinese.
 
-我也有一些私有工作流围绕电力市场 PDF 提取、结算复盘和交易分析展开。真实业务数据会保持私有，但其中可复用的方法、空数据样例和抽象流程，会尽量沉淀成公开项目。
+GitHub is the workshop: tools, workflows, public examples, and reproducible structures.  
+公众号和长文写作则更像是书房：研究、观察、复盘、生活经验，以及那些还没有产品化但值得慢慢打磨的想法。
